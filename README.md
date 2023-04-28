@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋 I'm Olga Melikhova
+## Backend developer from Stary Oskol, Russia
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApriCotBrain)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApriCotBrain&layout=compact)](https://github.com/ApriCotBrain/github-readme-stats)
+
+
 
 <!--
 **ApriCotBrain/ApriCotBrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
