@@ -1,7 +1,7 @@
 ## Привет, мир! 👋 Я Ольга!
 ## Я начинающий Python-разработчик
 ### Я готова к новым вызовам и ищу возможности для роста и развития своих навыков. Если у вас есть интересные идеи, и вы ищете молодого и амбициозного разработчика, напишите мне! 
-![](https://images.pexels.com/photos/1546898/pexels-photo-1546898.jpeg)
+![image](https://images.pexels.com/photos/1546898/pexels-photo-1546898.jpeg)
 ## Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Olga_Melihova)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ольга-мелихова-78563192)
