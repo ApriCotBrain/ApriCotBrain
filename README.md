@@ -1,7 +1,7 @@
 ## Привет, мир! 👋 Я Ольга!
 ## Я начинающий Python-разработчик
 ### Я готова к новым вызовам и ищу возможности для роста и развития своих навыков. Если у вас есть интересные идеи, и вы ищете молодого и амбициозного разработчика, напишите мне! 
-![](https://images.pexels.com/photos/1546898/pexels-photo-1546898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![](https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.webp)
 ## Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Olga_Melihova)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ольга-мелихова-78563192)
@@ -19,22 +19,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApriCotBrain)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApriCotBrain&layout=compact)](https://github.com/ApriCotBrain/github-readme-stats)
-
-
-
-<!--
-**ApriCotBrain/ApriCotBrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
