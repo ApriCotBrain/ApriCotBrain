@@ -1,7 +1,6 @@
 ## Привет, мир! 👋 Меня зовут Ольга!
 ## Я начинающий Python-разработчик
 ### Я готова к новым вызовам и ищу возможности для роста и развития своих навыков. Если у вас есть интересные идеи, и вы ищете молодого и амбициозного разработчика, напишите мне! 
-![](https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.webp)
 ## Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Olga_Melihova)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melihovaolga2016@gmail.com)
@@ -18,5 +17,3 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Yandex Cloud](https://img.shields.io/badge/YandexCloud-FFDB4D?style=for-the-badge&logo=yandex&logoColor=black) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApriCotBrain)](https://git.io/streak-stats)
